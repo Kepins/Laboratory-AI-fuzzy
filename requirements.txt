@@ -1,0 +1,6 @@
+pygame
+matplotlib
+seaborn
+simpful
+Box2D
+gym
